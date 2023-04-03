@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório
+Primeira atividade do curso de desenvolvimento de software da cubos academy
